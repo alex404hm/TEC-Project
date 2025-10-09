@@ -1,20 +1,17 @@
-const quizData = [
-  {
-    question: "What is the capital of France?",
-    options: ["Berlin", "Madrid", "Paris"],
-    correct: 2
-  },
-  {
-    question: "Which language runs in a web browser?",
-    options: ["Java", "C",  "JavaScript"],
-    correct: 3
-  },
-  {
-    question: "What does CSS stand for?",
-    options: ["Central Style Sheets", "Cascading Style Sheets"],
-    correct: 1
-  }
-];
+fetch('quizData.json') // Replace 'data.json' with the URL or file path
+  .then(response => {
+    if (!response.ok) {
+      throw new Error('Network response was not ok ' + response.statusText);
+    }
+    return response.json(); // Parse the JSON data
+  })
+  .then(data => {
+    console.log(data); // Use the JSON data
+  })
+  .catch(error => {
+    console.error('There was a problem with the fetch operation:', error);
+  });
+
 
 let currentQuestion = 0;
 let score = 0;
@@ -26,7 +23,7 @@ const resultEl = document.getElementById("result");
 const scoreEl = document.getElementById("score");
 
 function loadQuestion() {
-  const currentQuiz = quizData[currentQuestion];
+  const currentQuiz = data[currentQuestion];
   questionEl.textContent = currentQuiz.question;
 
   // Loop through options and update text + show/hide options if less than total

@@ -1,0 +1,119 @@
+[
+  {
+
+    "question": "færdiggøre sangen: im in love with a ...?",
+    "options": ["emogirl", "emoguy", "loverboy", "lovergirl"],
+    "correct": "0"
+  },
+  {
+    "question": "hvem sagde det her?: Du bliver efterladt og er ikke engang nået til første base.",
+    "options": ["Tanushree", "Zamzam", "Louise", "Lasse"],
+    "correct": "2"
+  },
+  {
+
+    "question": "Lasse har færdiggjort en af vores puslespil.",
+    "options": ["sandt", "falsk"],
+    "correct": "0"
+  },
+    {
+
+    "question": "hvilken puslespil laver vi?",
+    "options": ["wasgij", "ravensburger", "Jan van haastern", "larsen"],
+    "correct": "2"
+  },
+    {
+
+    "question": "færdiggøre sangen: am i crazy? maybe we could happend, yeah. Will you ...?",
+    "options": ["stil stay with me", "go with me", "run with me", "stil be with me"],
+    "correct": "3"
+  },
+    {
+
+    "question": "hvilken en af disse cartoon er mest kendt?",
+    "options": ["barbie", "bratz", "monster high", "ever after high"],
+    "correct": "0"
+  },
+  {
+
+    "question": "hvad var det første Lasse sagde til os?",
+    "options": ["velkommen", "hej", "hva så", "jeg vil hjem"],
+    "correct": "1"
+  },
+  {
+
+    "question": "hvilken pringles kan vi bedst lide?",
+    "options": ["original", "sour cream & onion", "paprika", "cheese & onion"],
+    "correct": "1"
+  },
+{
+
+    "question": "hvilken AI bruger vi mest?",
+    "options": ["ChatGPT", "Co-pilot", "Claude", "Deepai"],
+    "correct": "0"
+  },
+{
+    "question": "hvem sagde det?: MANBEATER",
+    "options": ["zamzam", "tanushree", "lasse", "louise"],
+    "correct": "1"
+  },
+  {
+    "question": "hvem sagde det?: Hash, Hash, Hash",
+    "options": ["Davut", "Alexander", "Lasse", "Simon"],
+    "correct": "2"
+  },
+  {
+
+    "question": "der står kun dansk og svensk på en pringles dåse.",
+    "options": ["sandt", "falsk"],
+    "correct": "1"
+  },
+  {
+
+    "question": "hvad står CSS for?",
+    "options": ["Central Style Sheets", "Cascading Style Sheets", "Cascading Simple Sheets", "Cars SUVs Sailboats"],
+    "correct": "1"
+  },
+  {
+
+    "question": "vi får 4 uger til sommerferie.",
+    "options": ["sandt", "falsk"],
+    "correct": "1"
+  },
+  {
+
+    "question": "hvem sagde det her?: Spagetthi kode",
+    "options": ["Alexander", "Davut", "Jonas", "Lasse"],
+    "correct": "3"
+  },
+  {
+
+    "question": "hvilkem slags bog har aleksander altid på sig",
+    "options": ["En bog om vin", "En bog om kodning", "En bog om verden", "En bog om biler"],
+    "correct": "0"
+  },
+  {
+
+    "question": "færdiggøre sangen: she knows she got me dazing, cause she was so amazing and now my heart is breaking, but i....",
+    "options": ["just keep on waiting", "just keep on loving", "just keep on playing", "just keep on saying"],
+    "correct": "3"
+  },
+  {
+
+    "question": "Davuts ynglings booster er?",
+    "options": ["Twisted lemon", "Juicy & Passion", "originalen", "Energy"],
+    "correct": "2"
+  },
+  {
+
+       "question": "hvem sagde det her?: Vand falde rikke bare",
+    "options": ["Zander", "Jonas", "Lasse", "Tanushree"],
+    "correct": "1"
+  },
+  {
+
+    "question": "færdiggøre sangen: life is plastic, its fantastic ....",
+    "options": ["you can brush my hair", "you can cut my hair", "you can touch my hair", "you can wash my hair"],
+    "correct": "0"
+  }
+] 
